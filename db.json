@@ -1,21 +1,21 @@
 {
-  "posts": {
-    data: [
-    {
-      "id": "1",
-      "title": "hello"
+    "posts":{
+        "data":[
+            {
+                "id":"1",
+                "title":"hello"
+            },
+            {
+                "id":"2",
+                "title":"word"
+            },
+            {
+                "id":"2",
+                "title":"hi"
+            }
+        ]
     },
-    {
-      "id": "2",
-      "title": "word"
-    },
-    {
-      "id": "2",
-      "title": "hi"
+    "profile":{
+        "name":"typicode"
     }
-  ]
-  },
-  "profile": {
-    "name": "typicode"
-  }
 }
